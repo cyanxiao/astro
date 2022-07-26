@@ -1,5 +1,11 @@
 # astro
 
+## 1.0.0-rc.2
+
+### Patch Changes
+
+- [#4055](https://github.com/withastro/astro/pull/4055) [`44694d8a9`](https://github.com/withastro/astro/commit/44694d8a9084bb1b09840ec8967edd75fa033174) Thanks [@matthewp](https://github.com/matthewp)! - Handle binary data request bodies in the Node adapter
+
 ## 1.0.0-rc.1
 
 The **Astro v1.0.0 Release Candidate** comes includes new features, tons of bug fixes, and a few breaking changes to be aware of.
